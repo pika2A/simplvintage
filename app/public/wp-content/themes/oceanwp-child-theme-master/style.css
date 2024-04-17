@@ -1,0 +1,49 @@
+/*
+Theme Name: OceanWP Child Theme
+Theme URI: https://oceanwp.org/
+Description: OceanWP WordPress theme. Sample child theme.
+Author: OceanWP
+Author URI: https://oceanwp.org/
+Template: oceanwp
+Version: 1.0
+*/
+
+/* Parent stylesheet should be loaded from functions.php not using @import */
+#wpforms-496-field_0-container,
+#wpforms-496-field_1-container,
+#wpforms-496-field_3-container,
+#wpforms-496-field_8-container,
+#wpforms-496-field_5-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#wpforms-496-field_0-container {
+    padding-left: 10px;
+}
+
+div.wpforms-container-full .wpforms-field-label {
+    color: #060957
+}
+
+#wpforms-496-field_0,
+#wpforms-496-field_1,
+#wpforms-496-field_2,
+#wpforms-496-field_3,
+#wpforms-496-field_8,
+#wpforms-496-field_5 {
+    border: solid 1.5px #c39800;
+    border-radius: 15px;
+    background-color: #c3980010
+}
+
+div.wpforms-container-full .wpforms-field-label-inline {
+    color: #c39800
+}
+
+#wpforms-submit-496 {
+    background: #060957;
+    color: #c39800;
+    box-shadow: 0px 0px 10px 4px #DCA41180;
+}

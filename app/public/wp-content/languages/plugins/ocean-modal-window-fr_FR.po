@@ -1,0 +1,442 @@
+# Translation of Plugins - Ocean Modal Window - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Ocean Modal Window - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-14 10:35:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Ocean Modal Window - Stable (latest release)\n"
+
+#: ocean-modal-window.php:1443
+msgid "Select A Template"
+msgstr "Sélectionnez un modèle"
+
+#: ocean-modal-window.php:1444
+msgid "Select your template created in Theme Panel > My Library."
+msgstr "Sélectionnez votre modèle créé dans Theme Panel > Ma bibliothèque."
+
+#: ocean-modal-window.php:355 ocean-modal-window.php:1049
+#: ocean-modal-window.php:1225
+msgid "Custom Width (px)"
+msgstr "Largeur personnalisée (px)"
+
+#: ocean-modal-window.php:385 ocean-modal-window.php:1079
+#: ocean-modal-window.php:1255
+msgid "Custom Height (px)"
+msgstr "Hauteur personnalisée (px)"
+
+#: ocean-modal-window.php:1705
+msgid "Select a hex color code for the modal overlay, ex: #333"
+msgstr "Sélectionnez une couleur hexadécimale pour la superposition de la fenêtre modale, ex. #333"
+
+#: ocean-modal-window.php:1202 ocean-modal-window.php:2152
+msgid "Mobile Device"
+msgstr "Appareil mobile"
+
+#: ocean-modal-window.php:1026 ocean-modal-window.php:2030
+msgid "Tablet Device"
+msgstr "Tablette"
+
+#: ocean-modal-window.php:452 ocean-modal-window.php:478
+#: ocean-modal-window.php:536 ocean-modal-window.php:1109
+#: ocean-modal-window.php:1285
+msgid "Format: top right bottom left."
+msgstr "Format : supérieur droite bas gauche."
+
+#: ocean-modal-window.php:321 ocean-modal-window.php:2286
+#: ocean-modal-window.php:3486
+msgid "Modal Window"
+msgstr "Fenêtre modale"
+
+#: ocean-modal-window.php:1723
+msgid "Enter your custom opacity for the overlay. Default is 0.9."
+msgstr "Saisissez votre opacité personnalisée pour la superposition. Par défaut 0.9."
+
+#: ocean-modal-window.php:599 ocean-modal-window.php:1722
+msgid "Overlay Opacity"
+msgstr "Opacité de superposition"
+
+#: ocean-modal-window.php:415 ocean-modal-window.php:1597
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: ocean-modal-window.php:451 ocean-modal-window.php:1108
+#: ocean-modal-window.php:1284 ocean-modal-window.php:1622
+#: ocean-modal-window.php:2086 ocean-modal-window.php:2208
+msgid "Padding"
+msgstr "Marge interne"
+
+#: ocean-modal-window.php:504 ocean-modal-window.php:1656
+msgid "Border Type"
+msgstr "Type de bordure"
+
+#: ocean-modal-window.php:510 ocean-modal-window.php:1659
+msgid "Solid"
+msgstr "Solide"
+
+#: ocean-modal-window.php:511 ocean-modal-window.php:1660
+msgid "Double"
+msgstr "Double"
+
+#: ocean-modal-window.php:512 ocean-modal-window.php:1661
+msgid "Dotted"
+msgstr "Pointillés"
+
+#: ocean-modal-window.php:513 ocean-modal-window.php:1662
+msgid "Dashed"
+msgstr "Tirets"
+
+#: ocean-modal-window.php:551 ocean-modal-window.php:1694
+msgid "Colors"
+msgstr "Couleurs"
+
+#: ocean-modal-window.php:629 ocean-modal-window.php:1745
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: ocean-modal-window.php:677 ocean-modal-window.php:1780
+msgid "Text Color"
+msgstr "Couleur du texte "
+
+#: ocean-modal-window.php:812 ocean-modal-window.php:1881
+msgid "Typography"
+msgstr "Typographie"
+
+#: ocean-modal-window.php:892 ocean-modal-window.php:928
+#: ocean-modal-window.php:959 ocean-modal-window.php:1929
+#: ocean-modal-window.php:1956 ocean-modal-window.php:1978
+#: ocean-modal-window.php:2332 ocean-modal-window.php:2363
+msgid "Default"
+msgstr "Par défaut"
+
+#: ocean-modal-window.php:929 ocean-modal-window.php:1957
+msgid "Normal"
+msgstr "Normal"
+
+#: ocean-modal-window.php:930 ocean-modal-window.php:1958
+msgid "Italic"
+msgstr "Italique"
+
+#: ocean-modal-window.php:952 ocean-modal-window.php:1975
+msgid "Text Transform"
+msgstr "Transformation du texte"
+
+#: ocean-modal-window.php:953 ocean-modal-window.php:1976
+msgid "Select your custom text transform."
+msgstr "Sélectionnez votre transformation de texte personnalisée."
+
+#: ocean-modal-window.php:961 ocean-modal-window.php:1980
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: ocean-modal-window.php:962 ocean-modal-window.php:1981
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#: ocean-modal-window.php:984 ocean-modal-window.php:1160
+#: ocean-modal-window.php:1336 ocean-modal-window.php:1998
+#: ocean-modal-window.php:2120 ocean-modal-window.php:2242
+msgid "Line Height"
+msgstr "Interlignage "
+
+#: ocean-modal-window.php:1010 ocean-modal-window.php:1186
+#: ocean-modal-window.php:1362 ocean-modal-window.php:2015
+#: ocean-modal-window.php:2137 ocean-modal-window.php:2259
+msgid "Letter Spacing"
+msgstr "Interlettrage"
+
+#: ocean-modal-window.php:1551 ocean-modal-window.php:2040
+#: ocean-modal-window.php:2162
+msgid "Custom Width"
+msgstr "Largeur personnalisée"
+
+#: ocean-modal-window.php:1574 ocean-modal-window.php:2063
+#: ocean-modal-window.php:2185
+msgid "Custom Height"
+msgstr "Hauteur personnalisée"
+
+#: ocean-modal-window.php:1657
+msgid "Select your border type if a border width is defined."
+msgstr "Sélectionnez votre type de bordure si une largeur de bordure est définie."
+
+#: ocean-modal-window.php:1011 ocean-modal-window.php:1187
+#: ocean-modal-window.php:1363 ocean-modal-window.php:2016
+#: ocean-modal-window.php:2138 ocean-modal-window.php:2260
+msgid "Enter your custom letter spacing (px - em - rem)."
+msgstr "Saisissez votre interlettrage personnalisé (px - em - rem)."
+
+#: ocean-modal-window.php:985 ocean-modal-window.php:1161
+#: ocean-modal-window.php:1337 ocean-modal-window.php:1999
+#: ocean-modal-window.php:2121 ocean-modal-window.php:2243
+msgid "Enter your custom line height (px - em - rem)."
+msgstr "Saisissez votre interlignage personnalisé (px - em - rem)."
+
+#: ocean-modal-window.php:477 ocean-modal-window.php:1639
+msgid "Border Width"
+msgstr "Largeur de bordure"
+
+#: ocean-modal-window.php:535 ocean-modal-window.php:1679
+msgid "Border Radius"
+msgstr "Rayon de bordure "
+
+#: ocean-modal-window.php:574 ocean-modal-window.php:1704
+msgid "Overlay Background Color"
+msgstr "Couleur de superposition d’arrière-plan"
+
+#: ocean-modal-window.php:653 ocean-modal-window.php:1763
+msgid "Border Color"
+msgstr "Couleur de bordure"
+
+#: ocean-modal-window.php:834 ocean-modal-window.php:1134
+#: ocean-modal-window.php:1310 ocean-modal-window.php:1891
+#: ocean-modal-window.php:2103 ocean-modal-window.php:2225
+msgid "Font Size"
+msgstr "Taille de police"
+
+#: ocean-modal-window.php:835 ocean-modal-window.php:1135
+#: ocean-modal-window.php:1311 ocean-modal-window.php:1892
+#: ocean-modal-window.php:2104 ocean-modal-window.php:2226
+msgid "Enter your custom font size (px - em - rem)."
+msgstr "Saisissez votre taille de police personnalisée (px - em - rem)."
+
+#: ocean-modal-window.php:860 ocean-modal-window.php:1908
+msgid "Font Family"
+msgstr "Famille de police"
+
+#: ocean-modal-window.php:885 ocean-modal-window.php:1926
+msgid "Font Weight"
+msgstr "Graisse de police"
+
+#: ocean-modal-window.php:886 ocean-modal-window.php:1927
+msgid "Important: Not all fonts support every font weight."
+msgstr "Important : toutes les polices ne sont pas compatibles avec toutes les graisses de police."
+
+#: ocean-modal-window.php:893 ocean-modal-window.php:1930
+msgid "Extra Light: 100"
+msgstr "Extra léger : 100"
+
+#: ocean-modal-window.php:894 ocean-modal-window.php:1931
+msgid "Light: 200"
+msgstr "Léger : 200"
+
+#: ocean-modal-window.php:895 ocean-modal-window.php:1932
+msgid "Book: 300"
+msgstr "Book : 300"
+
+#: ocean-modal-window.php:896 ocean-modal-window.php:1933
+msgid "Normal: 400"
+msgstr "Normal : 400"
+
+#: ocean-modal-window.php:897 ocean-modal-window.php:1934
+msgid "Semibold: 600"
+msgstr "Semi-gras : 600"
+
+#: ocean-modal-window.php:898 ocean-modal-window.php:1935
+msgid "Bold: 700"
+msgstr "Gras : 700"
+
+#: ocean-modal-window.php:899 ocean-modal-window.php:1936
+msgid "Extra Bold: 800"
+msgstr "Extra-gras : 800"
+
+#: ocean-modal-window.php:921 ocean-modal-window.php:1953
+msgid "Font Style"
+msgstr "Style de police"
+
+#: ocean-modal-window.php:922 ocean-modal-window.php:1954
+msgid "Select your custom font style."
+msgstr "Sélectionnez votre style de police personnalisé."
+
+#: ocean-modal-window.php:960 ocean-modal-window.php:1979
+msgid "Capitalize"
+msgstr "Capitaliser"
+
+#: ocean-modal-window.php:1623 ocean-modal-window.php:2087
+#: ocean-modal-window.php:2209
+msgid "Enter your custom padding for the modal. ex: 20px 30px 20px 30px (Top Right Bottom Left). Default is 50px."
+msgstr "Saisissez votre marge interne personnalisée pour la fenêtre modale. Ex : 20px 30px 20px 30px (supérieure droite inférieure gauche). Par défaut 50px."
+
+#: ocean-modal-window.php:1640
+msgid "Enter your custom border width for the modal. ex: 2px 1px 2px 1px (Top Right Bottom Left). Default is 0."
+msgstr "Saisissez votre largeur de bordure personnalisée pour la fenêtre modale. Ex : 2px 1px 2px 1px (supérieure droite inférieure gauche). Par défaut 0."
+
+#: ocean-modal-window.php:1680
+msgid "Enter your custom border radius for the modal.  ex: 2px 1px 2px 1px (Top Right Bottom Left). Default is 0."
+msgstr "Saisissez votre rayon de bordure personnalisé pour la fenêtre modale. Ex : 2px 1px 2px 1px (supérieur droit inférieur gauche). Par défaut 0."
+
+#: ocean-modal-window.php:1746
+msgid "Select a hex color code for the modal background, ex: #333"
+msgstr "Sélectionnez une couleur hex. pour l'arrière-plan de la fenêtre modale, ex. #333"
+
+#: ocean-modal-window.php:1909
+msgid "Select your custom font."
+msgstr "Sélectionnez votre police personnalisée."
+
+#: ocean-modal-window.php:1575 ocean-modal-window.php:2064
+#: ocean-modal-window.php:2186
+msgid "Enter your custom height for the modal. 0 equal auto height."
+msgstr "Saisissez votre hauteur personnalisée pour la fenêtre modale. 0 équivaut à hauteur auto."
+
+#: ocean-modal-window.php:233
+msgid "Modal"
+msgstr "Fenêtre modale"
+
+#: ocean-modal-window.php:237
+msgid "Edit Item"
+msgstr "Modifier l’élément"
+
+#: ocean-modal-window.php:241
+msgid "No Items Found"
+msgstr "Aucun élément trouvé"
+
+#: ocean-modal-window.php:242
+msgid "No Items Found In Trash"
+msgstr "Aucun élément trouvé dans la corbeille"
+
+#: ocean-modal-window.php:332 ocean-modal-window.php:1433
+msgid "General"
+msgstr "Général"
+
+#: ocean-modal-window.php:429 ocean-modal-window.php:1612
+msgid "Styling"
+msgstr "Style général"
+
+#: ocean-modal-window.php:702 ocean-modal-window.php:1797
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+#: ocean-modal-window.php:726 ocean-modal-window.php:1815
+msgid "Close Button Background"
+msgstr "Arrière-plan du bouton de fermeture"
+
+#: ocean-modal-window.php:750 ocean-modal-window.php:1832
+msgid "Close Button Hover Background"
+msgstr "Arrière-plan au survol du bouton de fermeture"
+
+#: ocean-modal-window.php:1461
+msgid "Display Title"
+msgstr "Afficher le titre"
+
+#: ocean-modal-window.php:1462
+msgid "Enable or disable the title."
+msgstr "Activer ou désactiver le titre."
+
+#: ocean-modal-window.php:1464 ocean-modal-window.php:1515
+#: ocean-modal-window.php:2299
+msgid "Enable"
+msgstr "Activer"
+
+#: ocean-modal-window.php:1465 ocean-modal-window.php:1516
+#: ocean-modal-window.php:2300
+msgid "Disable"
+msgstr "Désactiver"
+
+#: ocean-modal-window.php:1512
+msgid "Display Close Button"
+msgstr "Afficher le bouton de fermeture"
+
+#: ocean-modal-window.php:1598
+msgid "Select a custom image for your modal."
+msgstr "Sélectionnez une image personnalisée pour votre fenêtre modale."
+
+#: ocean-modal-window.php:2707
+msgid "Link Class:"
+msgstr "Classe du lien : "
+
+#: ocean-modal-window.php:2710
+msgid "Full Link:"
+msgstr "Lien complet : "
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-modal-window/"
+msgstr "https://oceanwp.org/extension/ocean-modal-window/"
+
+#. Plugin Name of the plugin
+msgid "Ocean Modal Window"
+msgstr "Ocean Modal Window"
+
+#: ocean-modal-window.php:155 ocean-modal-window.php:164
+msgid "Cheatin&#8217; huh?"
+msgstr "Une fausse manipulation ?"
+
+#: ocean-modal-window.php:234
+msgid "Modal Item"
+msgstr "Élément de fenêtre modale"
+
+#: ocean-modal-window.php:235
+msgid "Add New"
+msgstr "Ajouter une nouvelle"
+
+#: ocean-modal-window.php:236 ocean-modal-window.php:238
+msgid "Add New Item"
+msgstr "Ajouter un nouvel élément"
+
+#: ocean-modal-window.php:239
+msgid "View Item"
+msgstr "Voir l’élément"
+
+#: ocean-modal-window.php:240
+msgid "Search Items"
+msgstr "Rechercher des éléments"
+
+#: ocean-modal-window.php:774 ocean-modal-window.php:1849
+msgid "Close Button Color"
+msgstr "Couleur du bouton de fermeture"
+
+#: ocean-modal-window.php:798 ocean-modal-window.php:1866
+msgid "Close Button Hover Color"
+msgstr "Couleur au survol du bouton de fermeture"
+
+#: ocean-modal-window.php:1421
+msgid "Modal Settings"
+msgstr "Réglages de la fenêtre modale"
+
+#: ocean-modal-window.php:1513
+msgid "Enable or disable the close button."
+msgstr "Activer ou désactiver le bouton de fermeture."
+
+#: ocean-modal-window.php:1552 ocean-modal-window.php:2041
+#: ocean-modal-window.php:2163
+msgid "Enter your custom width for the modal. Default is 700px."
+msgstr "Saisissez votre largeur personnalisée pour la fenêtre modale. Par défaut 700px."
+
+#: ocean-modal-window.php:1764
+msgid "Select a hex color code, ex: #333"
+msgstr "Sélectionnez une couleur hex., ex : #333"
+
+#: ocean-modal-window.php:1781 ocean-modal-window.php:1798
+#: ocean-modal-window.php:1850 ocean-modal-window.php:1867
+msgid "Select a hex color code, ex: #fff"
+msgstr "Sélectionnez une couleur hex.e, ex : #fff"
+
+#: ocean-modal-window.php:1816
+msgid "Select a hex color code, ex: #fe5252"
+msgstr "Sélectionnez une couleur hex., ex : #fe5252"
+
+#: ocean-modal-window.php:1833
+msgid "Select a hex color code, ex: #222"
+msgstr "Sélectionnez une couleur hex., ex : #222"
+
+#: ocean-modal-window.php:2686
+msgid "Modal Link"
+msgstr "Lien de fenêtre modale"
+
+#: ocean-modal-window.php:2702
+msgid "This is the ID, class and the full link to open your modal."
+msgstr "Ce sont l'ID, la classe et le lien complet pour ouvrir votre fenêtre modale."
+
+#: ocean-modal-window.php:2704
+msgid "Modal ID:"
+msgstr "ID de fenêtre modale : "
